@@ -16,3 +16,8 @@
 """
     bash yourfilenme.sh
 """
+"""
+    python setup.py
+"""
+# another way you can mention -e in requiremts.txt and run 
+#pip install -r requiremts.txt
